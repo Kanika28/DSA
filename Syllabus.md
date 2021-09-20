@@ -1,3 +1,5 @@
 - [ ] Arrays / Lists
-- [ ] Searching
--- [ ] Linear Search
+- [ ] Linear Search
+- [ ] Binary Search
+- [ ] Modified Binary Search
+- [ ] Binary Search on 2D Arrays
