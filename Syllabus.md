@@ -1,0 +1,3 @@
+- [ ] Arrays / Lists
+- [ ] Searching
+-- [ ] Linear Search
